@@ -2,7 +2,7 @@
 
     //GET All Categories API
     
-    include 'includes/database.php';
+    include '../database.php';
     
     $sql = '';
         
@@ -18,20 +18,15 @@
             while($row = $statement->fetch(PDO::FETCH_ASSOC)){
                 $json[] = $row;
             }
-                
-                
+                  
         } elseif(!$statement->rowCount()) {
                 
             $json['status'] = 0;
             $json['message'] = "No Data Found";
                 
         }  
-        
-    
-          
-        
+
         header('Content-Type:Application/json');
- 
         echo json_encode($json); 
         
     
