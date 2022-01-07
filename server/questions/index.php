@@ -2,7 +2,7 @@
 
     //GET All Questions by Category API
     
-    include '../../includes/database.php';
+    include '../database.php';
     
     $category = $_POST['category'];
     
