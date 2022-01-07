@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quiz App</string>
+
+    <!-- CHANGE ADMOB STRINGS HERE-->
+    <string name="admob_id">Admob ID Goes Here</string>
+    <string name="inter_id">Interstitial Ad Admob ID Goes Here</string>
+    <string name="banner_id">Banner Ad Admob ID Goes Here</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#290147</color>
+    <color name="colorPrimaryDark">#150123</color>
+    <color name="colorAccent">#7373AF</color>
+    <color name="background">#2F322C</color>
+
+    <!--Sign In Colors-->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="dark_blue">#132875</color>
+    <color name="rad_rectangle_color">#7E79CC</color>
+    <color name="signin_txt_color">#F1F0FF</color>
+    <color name="full_transparent">#00A86060</color>
+
+    <color name="header_color">#2133A0</color>
+    <color name="Transparent">#00000000</color>
+    <color name="light_blue">#1C8ED9</color>
+    <color name="gra_medium_blue">#2618A8</color>
+
+</resources>

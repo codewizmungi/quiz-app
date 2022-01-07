@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280609498357",
+    "firebase_url": "https://quizbox-269a2.firebaseio.com",
+    "project_id": "quizbox-269a2",
+    "storage_bucket": "quizbox-269a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280609498357:android:535f3a48023bffef4a11bc",
+        "android_client_info": {
+          "package_name": "mungi.solutions.nccaexams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280609498357-19qk1enn4moek4ot7d3pj0222fd9bnev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZ3G68K63tv3t9ig8X0G3zySarJcpIb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280609498357-19qk1enn4moek4ot7d3pj0222fd9bnev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
